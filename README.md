@@ -12,7 +12,7 @@ I am currently Learning Webdesigning.<br>
 [![](https://visitcount.itsvg.in/api?id=Trixjohn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR-USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=Trixjohn&label=Profile%20views&color=0e75b6&style=flat" alt="Trixjohn" />
 </p>
 
   
