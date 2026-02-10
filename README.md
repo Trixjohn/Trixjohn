@@ -1,5 +1,5 @@
 
-I am currently Learning Webdesigning.<br>
+I am currently Learning SQL, BOOTSTRAP, PHP.<br>
 
 
 
