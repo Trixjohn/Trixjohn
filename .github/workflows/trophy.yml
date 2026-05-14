@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: generate trophy.svg
-        uses: ryo-ma/github-profile-trophy@v1
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
           theme: dracula
