@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Trixjohn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Trixjohn/Trixjohn/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Trixjohn&theme=dracula&no-bg=true&margin-w=8&row=1" height="150" alt="trophy graph"  />
 </div>
 
 ###
