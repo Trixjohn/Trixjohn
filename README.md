@@ -1,4 +1,4 @@
-<h1 align="center">Trix diay ni, Bagohan lang po! </h1>
+<h1 align="center">Want to know my IT journey? </h1>
 
 ###
 <div align="center">
